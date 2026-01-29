@@ -24,4 +24,4 @@ Este projeto faz parte da formação de Python da **Alura**, focado em fundament
 1. Certifique-se de ter o Python instalado em sua máquina.
 2. Clone este repositório:
    ```bash
-   git clone [https://github.com/seu-usuario/sabor-express.git](https://github.com/seu-usuario/sabor-express.git)
+   git clone [https://github.com/julicodings/sabor-express.git](https://github.com/julicodings/sabor-express.git)
