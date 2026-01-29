@@ -25,17 +25,3 @@ Este projeto faz parte da formação de Python da **Alura**, focado em fundament
 2. Clone este repositório:
    ```bash
    git clone [https://github.com/seu-usuario/sabor-express.git](https://github.com/seu-usuario/sabor-express.git)
-
-
-🧠 Conceitos Praticados
-Manipulação de dicionários e listas.
-
-Estruturas de repetição (for e while).
-
-Tratamento de exceções (try-except).
-
-Modularização com funções.
-
-Formatação de strings (f-strings e ljust).
-
-Desenvolvido por Julia Oliveira durante os estudos na Alura.
