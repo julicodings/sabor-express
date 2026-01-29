@@ -26,7 +26,8 @@ Este projeto faz parte da formação de Python da **Alura**, focado em fundament
    ```bash
    git clone [https://github.com/seu-usuario/sabor-express.git](https://github.com/seu-usuario/sabor-express.git)
 
-   🧠 Conceitos Praticados
+
+🧠 Conceitos Praticados
 Manipulação de dicionários e listas.
 
 Estruturas de repetição (for e while).
